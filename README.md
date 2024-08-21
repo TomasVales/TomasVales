@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI1c3h1a2R4b2FwcXA3NmsxYzd5eDJqM2VuZHV0bTF1eDBhdnNtMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/> Hey there, I'm Tomas Vales.
 
-![Banner](computer-coding.webp)
+<img src="https://loopgk.com/wp-content/uploads/2021/02/lenguaje-min.jpg" 
 Sobre mi: 
 
 💡 Soy una persona apasionada en busca de aprender nuevas tecnologias, conocimientos y habilidades que me permitan crecer en el ambito laboral.
