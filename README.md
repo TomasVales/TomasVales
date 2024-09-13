@@ -2,7 +2,6 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejduMHQyOHdhb244YWVxejZjOTc2N293cXRvNnFwcGw3cGt2Y2V3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
 
-# 💫 About Me:
 Sobre mi:<br><br>💡 Soy una persona apasionada en busca de aprender nuevas tecnologias, conocimientos y habilidades que me permitan crecer en el ambito laboral.<br><br>🎓 Por el momento estoy estudiando la Tecnicatura de Programacion en la Universidad Tecnológica Nacional en Buenos Aires - Argentina. Voy por mi primer año esperando y buscando mi primera experiencia laboral.<br><br>📄 Ademas de estar estudiando la tecnicatura, estoy en un curso intensivo de Ingles en el Instituto Cultural Britanico, en donde voy mejorando mis conocimientos. Actualmente voy por mi segundo año del intensivo y son 4 para finalizarlo.<br><br>✉️ Mi correo electronico: contacto.tomasvales@gmail.com.
 
 
