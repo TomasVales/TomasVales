@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 ## 🚀 About Me
-🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)** pursuing a degree in **Software Development**.
+🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)** pursuing a degree in **Programming Technician**.
 
 💻 I'm passionate about **Backend Development**, **Data Science**, and **Machine Learning**.  
 I love solving problems, building scalable systems, and working with data to find insights.  
