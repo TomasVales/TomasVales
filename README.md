@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Tomas Vales
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI1c3h1a2R4b2FwcXA3NmsxYzd5eDJqM2VuZHV0bTF1eDBhdnNtMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 ## 🚀 About Me
 🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)** pursuing a degree in **Software Development**.
