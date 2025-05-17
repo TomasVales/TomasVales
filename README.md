@@ -1,74 +1,83 @@
-# 👋 Hola, soy Tomás Valés
+# 👋 Hey! I'm Tomas Vales
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;CEO+at+KIAD.dev;Python+%2F+JavaScript+Specialist" />
 
-## 🚀 Sobre mí
-- 🎓 Estudiante de 2° año de **Técnico en Programación** en UTN Argentina
-- 💻 **Backend Developer** especializado en Python y JavaScript
-- 🚀 Fundador de **[KIAD](https://kiad.dev)** - Soluciones web modernas con IA
-- 📈 Apasionado por sistemas robustos y código limpio
+## 🚀 About Me
+🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)**, pursuing a degree in **Programming Technician**.
 
----
+💼 CEO & Founder of **[KIAD](https://kiad.dev)** — building modern, fast, and scalable websites with a touch of innovation powered by AI.
 
-## 💻 Stack Tecnológico
+💻 I'm a **Backend Developer** specialized in **Python** and **JavaScript**. Passionate about solving complex problems, creating robust systems, and extracting insights from data.
 
-### Lenguajes
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-</div>
+📈 Constantly learning, always experimenting with new technologies, and committed to growing as a full-stack developer.
 
-### Backend & Frameworks
-<div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro">
-</div>
-
-### Bases de Datos (Destacando PostgreSQL)
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=101010" alt="PostgreSQL"> ★
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle">
-</div>
-
-### Data Science
-<div>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib">
-</div>
+📧 Reach me at: **contacto.tomasvales@gmail.com**
 
 ---
 
-## 📊 Estadísticas GitHub
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasVales&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats)
-  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TomasVales&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
-</div>
+### 🧩 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 📊 Data / Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🖥️ Tools & OS
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
-## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomas-vales-5b4735300)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.tomasvales@gmail.com)
-[![KIAD](https://img.shields.io/badge/-KIAD.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kiad.dev)
+## 🌍 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-vales-5b4735300/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.tomasvales@gmail.com)
+[![KIAD](https://img.shields.io/badge/KIAD.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kiad.dev)
 
 ---
 
-> *"Primero resuelve el problema. Luego escribe el código."* - John Johnson
-  
-[![Visitas](https://komarev.com/ghpvc/?username=TomasVales&color=blueviolet&style=flat)](https://github.com/TomasVales)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=TomasVales&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TomasVales&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasVales&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🧠 Currently Working On
+- Backend projects using **Django** & **Node.js**
+- Data analysis and ML models with **Python**
+- Mastering **C#** and advanced **SQL**
+- Expanding the impact of **KIAD** through cutting-edge web development
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=TomasVales&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Profile crafted with ❤️ by Tomas Vales -->
