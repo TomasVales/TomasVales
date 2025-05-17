@@ -3,12 +3,13 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 ## 🚀 About Me
-🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)** pursuing a degree in **Programming Technician**.
+🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)**, pursuing a degree in **Programming Technician**.
 
-💻 I'm passionate about **Backend Development**, **Data Science**, and **Machine Learning**.  
-I love solving problems, building scalable systems, and working with data to find insights.  
+💼 CEO & Founder of **[KIAD](https://kiad.dev)** — building modern, fast, and scalable websites with a touch of innovation powered by AI.
 
-📈 Focused on continuous learning and always looking for new technologies to master.
+💻 I'm a **Backend Developer** specialized in **Python** and **JavaScript**. Passionate about solving complex problems, creating robust systems, and extracting insights from data.
+
+📈 Constantly learning, always experimenting with new technologies, and committed to growing as a full-stack developer.
 
 📧 Reach me at: **contacto.tomasvales@gmail.com**
 
@@ -16,33 +17,40 @@ I love solving problems, building scalable systems, and working with data to fin
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔎 Data / ML
+### 📊 Data / Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 🖥️ Others
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🖥️ Tools & OS
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -53,6 +61,7 @@ I love solving problems, building scalable systems, and working with data to fin
 ## 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-vales-5b4735300/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.tomasvales@gmail.com)
+[![KIAD](https://img.shields.io/badge/KIAD.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kiad.tech)
 
 ---
 
@@ -63,11 +72,11 @@ I love solving problems, building scalable systems, and working with data to fin
 
 ---
 
-## 🚀 Currently Working On:
-- Backend projects with **Django**
-- Data analytics & machine learning models with **Python**
-- Continuous improvement of my knowledge in **C# and SQL**
-- Building my personal portfolio
+## 🧠 Currently Working On
+- Backend projects using **Django** & **Node.js**
+- Data analysis and ML models with **Python**
+- Mastering **C#** and advanced **SQL**
+- Expanding the impact of **KIAD** through cutting-edge web development
 
 ---
 
