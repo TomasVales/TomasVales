@@ -5,7 +5,7 @@
 ## 🚀 About Me
 🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)**, pursuing a degree in **Programming Technician**.
 
-💼 CEO & Founder of **[KIAD](https://kiad.dev)** — building modern, fast, and scalable websites with a touch of innovation powered by AI.
+💼 CEO & Founder of **[KIAD](https://kiad.dev)** — building modern, fast, and scalable websites with a touch of innovation.
 
 💻 I'm a **Backend Developer** specialized in **Python** and **JavaScript**. Passionate about solving complex problems, creating robust systems, and extracting insights from data.
 
