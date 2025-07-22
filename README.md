@@ -68,8 +68,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=TomasVales&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TomasVales&theme=dark&hide_border=false)
+![Tomas Vales' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasVales&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasVales&layout=compact&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasVales&theme=dark&hide_border=false&layout=compact)
 
 ---
