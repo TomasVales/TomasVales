@@ -65,12 +65,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.tomasvales@gmail.com)
 [![KIAD](https://img.shields.io/badge/KIAD.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kiad.dev)
 
----
-
-## 📊 GitHub Stats
-![Tomas Vales' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomasVales&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasVales&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasVales&theme=dark&hide_border=false&layout=compact)
 
 ---
 
