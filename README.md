@@ -5,9 +5,7 @@
 ## 🚀 About Me
 🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)**, pursuing a degree in **Programming Technician**.
 
-💼 CEO & Founder of **[KIAD](https://kiad.dev)** — building modern, fast, and scalable websites with a touch of innovation.
-
-💻 I'm a **Backend Developer** specialized in **Python** and **JavaScript**. Passionate about solving complex problems, creating robust systems, and extracting insights from data.
+I'm a Computer Science & Data Science enthusiast. Focused on core computing fundamentals, efficient algorithm design, and leveraging data to solve complex challenges.
 
 📈 Constantly learning, always experimenting with new technologies, and committed to growing as a full-stack developer.
 
@@ -63,7 +61,6 @@
 ## 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-vales-5b4735300/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.tomasvales@gmail.com)
-[![KIAD](https://img.shields.io/badge/KIAD.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kiad.dev)
 
 
 ---
@@ -72,7 +69,7 @@
 - Backend projects using **Django** & **Node.js**
 - Data analysis and ML models with **Python**
 - Mastering **C#** and advanced **SQL**
-- Expanding the impact of **KIAD** through cutting-edge web development
+
 
 ---
 
