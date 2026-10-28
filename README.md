@@ -3,7 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Data+Science+Enthusiast;Software+%26+Data+Developer" />
 
 ## 🚀 About Me
-🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)**, pursuing a degree in **Programming Technician**.
+🎓 Currently pursuing a **B.Sc. in Computer Science** (Data Science Curriculum) at **Università Ca' Foscari Venezia** 🇮🇹  
+📜 Holds a **Programming Technician** degree from **UTN (Universidad Tecnológica Nacional - Argentina)** 🇦🇷
 
 I'm a Computer Science & Data Science enthusiast. Focused on core computing fundamentals, efficient algorithm design, and leveraging data to solve complex challenges.
 
