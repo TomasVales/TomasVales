@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Tomas Vales
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;CEO+at+KIAD.dev;Python+%2F+JavaScript+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Data+Science+Enthusiast;Software+%26+Data+Developer" />
 
 ## 🚀 About Me
 🎓 I'm currently a 2nd-year student at **UTN - Universidad Tecnológica Nacional (Argentina)**, pursuing a degree in **Programming Technician**.
