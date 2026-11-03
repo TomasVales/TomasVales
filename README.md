@@ -1,3 +1,5 @@
+<img width="1860" height="530" alt="be11b6aaae766cec311e0c169118fef7" src="https://github.com/user-attachments/assets/8cc9ee81-3d82-462c-bb24-1588955b2dde" />
+
 # 👋 Hey! I'm Tomas Vales
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Data+Science+Enthusiast;Software+%26+Data+Developer" />
