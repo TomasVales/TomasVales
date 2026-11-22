@@ -14,6 +14,8 @@ I'm a Computer Science & Data Science enthusiast. Focused on core computing fund
 
 📧 Reach me at: **contacto.tomasvales@gmail.com**
 
+My Portfolio https://tomasvales.github.io/
+
 ---
 
 ## 🛠️ Tech Stack
